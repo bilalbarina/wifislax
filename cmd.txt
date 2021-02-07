@@ -1,0 +1,2 @@
+mv /etc/rc.d/rc.networkmanager /etc/rc.d/rc.rc.networkmanager
+service restart rc.networkmanager
